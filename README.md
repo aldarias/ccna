@@ -1,7 +1,7 @@
 # ccna de cisco
 Repositorio de apoyo para cursos de ccna de cisco
 
-Autor: Francisco Aldarias Raya
+Coordinador del repositorio: Francisco Aldarias Raya
 
 Fecha: 15/7/2023
 
